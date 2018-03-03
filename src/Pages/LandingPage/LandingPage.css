@@ -1,0 +1,140 @@
+.gradient {
+  background: #ffffff; /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 0%, #f3f3f3 50%, #ededed 51%, #ffffff 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); background-color: black;
+}
+
+
+.glossButton {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: white;
+  width: 125px;
+  color: rgb(79, 40, 93);
+  border-color: rgba(79, 40, 93, 0.75);
+  box-shadow: rgb(79, 40, 93) 2px 2px 5px;
+  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(245,245,245,0.71) 56%, rgba(241,241,241,0.79) 75%, rgba(225,225,225,0.91) 79%, rgba(246,246,246,1) 100%);
+  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,0.71) 56%,rgba(241,241,241,0.79) 75%,rgba(225,225,225,0.91) 79%,rgba(246,246,246,1) 100%);
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(245,245,245,0.71) 56%,rgba(241,241,241,0.79) 75%,rgba(225,225,225,0.91) 79%,rgba(246,246,246,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 );
+  cursor: default;
+}
+
+.glossButton:hover {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e8e8e8+56,f1f1f1+75,e1e1e1+79,f6f6f6+100&1+0,0.71+56,0.79+75,0.91+79,1+100 */
+  background: -moz-linear-gradient(top, rgba(245,245,245,1) 0%, rgba(232,232,232,0.71) 56%, rgba(241,241,241,0.79) 75%, rgba(225,225,225,0.91) 79%, rgba(246,246,246,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(245,245,245,1) 0%,rgba(232,232,232,0.71) 56%,rgba(241,241,241,0.79) 75%,rgba(225,225,225,0.91) 79%,rgba(246,246,246,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(245,245,245,1) 0%,rgba(232,232,232,0.71) 56%,rgba(241,241,241,0.79) 75%,rgba(225,225,225,0.91) 79%,rgba(246,246,246,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
+}
+
+.glossButton:active:hover {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e8e8e8+56,f1f1f1+75,e1e1e1+79,f6f6f6+100&1+0,0.71+56,0.79+75,0.91+79,1+100 */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f2f2f2+0,cecece+57,dbdbdb+75,c9c9c9+79,e8e8e8+100&1+0,0.71+56,0.79+75,0.91+79,1+100 */
+background: -moz-linear-gradient(top, rgba(242,242,242,1) 0%, rgba(207,207,207,0.71) 56%, rgba(206,206,206,0.71) 57%, rgba(219,219,219,0.79) 75%, rgba(201,201,201,0.91) 79%, rgba(232,232,232,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(242,242,242,1) 0%,rgba(207,207,207,0.71) 56%,rgba(206,206,206,0.71) 57%,rgba(219,219,219,0.79) 75%,rgba(201,201,201,0.91) 79%,rgba(232,232,232,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(242,242,242,1) 0%,rgba(207,207,207,0.71) 56%,rgba(206,206,206,0.71) 57%,rgba(219,219,219,0.79) 75%,rgba(201,201,201,0.91) 79%,rgba(232,232,232,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#e8e8e8',GradientType=0 ); /* IE6-9 */
+}
+
+.yellowButton {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: white;
+  width: 125px;
+  color: rgb(79, 40, 93);
+  border-color: rgba(79, 40, 93, 0.75);
+  box-shadow: rgb(79, 40, 93) 2px 2px 5px;
+  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,114,0.45) 90%, rgba(255,255,98,0.45) 100%);
+  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,114,0.45) 90%,rgba(255,255,98,0.45) 100%);
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,114,0.45) 90%,rgba(255,255,98,0.45) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#73ffff62',GradientType=0 );
+  box-shadow: inset -3px -3px 30px 4px rgba(255,255,98,.4);
+  cursor: default;
+}
+
+.yellowButton:hover {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: white;
+  width: 125px;
+  color: rgb(79, 40, 93);
+  border-color: rgba(79, 40, 93, 0.75);
+  box-shadow: rgb(79, 40, 93) 2px 2px 5px;
+  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,114,0.7) 90%, rgba(255,255,98,0.7) 100%);
+  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,114,0.7) 90%,rgba(255,255,98,0.7) 100%);
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,114,0.7) 90%,rgba(255,255,98,0.7) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#73ffff62',GradientType=0 );
+  box-shadow: inset -3px -3px 30px 4px rgba(255,255,98,.6);
+  cursor: default;
+}
+
+.yellowButton:active:hover {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: white;
+  width: 125px;
+  color: rgb(79, 40, 93);
+  border-color: rgba(79, 40, 93, 0.75);
+  box-shadow: rgb(79, 40, 93) 2px 2px 5px;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fce9e5+0,e0d464+90,e0d757+100&1+0,0.45+90,0.45+100 */
+  background: -moz-linear-gradient(top, rgba(252,233,229,1) 0%, rgba(224,212,100,0.45) 90%, rgba(224,215,87,0.45) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(252,233,229,1) 0%,rgba(224,212,100,0.45) 90%,rgba(224,215,87,0.45) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(252,233,229,1) 0%,rgba(224,212,100,0.45) 90%,rgba(224,215,87,0.45) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fce9e5', endColorstr='#73e0d757',GradientType=0 ); /* IE6-9 */
+  box-shadow: inset -3px -3px 30px 4px rgba(224,224,87,1);
+  cursor: default;
+}
+
+span {
+  -webkit-user-select: none;
+     -moz-user-select: -moz-none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+span::selection {
+  background: rgba(255, 255, 255, 0);
+}
+
+span::-moz-selection {
+  background: rgba(255, 255, 255, 0);
+}
+
+
+/*
+Desired button div CSS Yellow Inside Shadow
+font-family: sans-serif;
+text-align: center;
+background-color: white;
+width: 125px;
+color: rgb(79, 40, 93);
+border-color: rgba(79, 40, 93, 0.75);
+box-shadow: rgb(79, 40, 93) 2px 2px 5px;
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,114,0.45) 90%, rgba(255,255,98,0.45) 100%);
+background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,114,0.45) 90%,rgba(255,255,98,0.45) 100%);
+background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,114,0.45) 90%,rgba(255,255,98,0.45) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#73ffff62',GradientType=0 );
+box-shadow: inset -3px -3px 20px 4px rgba(255,255,98,.5);
+
+Desired button div CSS Glossy outside shadow
+font-family: sans-serif;
+text-align: center;
+background-color: white;
+width: 125px;
+color: rgb(79, 40, 93);
+border-color: rgba(79, 40, 93, 0.75);
+box-shadow: rgb(79, 40, 93) 2px 2px 5px;
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(245,245,245,0.71) 56%, rgba(241,241,241,0.79) 75%, rgba(225,225,225,0.91) 79%, rgba(246,246,246,1) 100%);
+background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,0.71) 56%,rgba(241,241,241,0.79) 75%,rgba(225,225,225,0.91) 79%,rgba(246,246,246,1) 100%);
+background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(245,245,245,0.71) 56%,rgba(241,241,241,0.79) 75%,rgba(225,225,225,0.91) 79%,rgba(246,246,246,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 );
+
+Lighter glossy :hover
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(232,232,232,0.71) 56%, rgba(241,241,241,0.79) 75%, rgba(225,225,225,0.91) 79%, rgba(246,246,246,1) 100%); 
+ background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(232,232,232,0.71) 56%,rgba(241,241,241,0.79) 75%,rgba(225,225,225,0.91) 79%,rgba(246,246,246,1) 100%);
+background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(232,232,232,0.71) 56%,rgba(241,241,241,0.79) 75%,rgba(225,225,225,0.91) 79%,rgba(246,246,246,1) 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 ); 
+*/

@@ -1,2 +1,0 @@
-# PersonalSiteFrontend
-Created with CodeSandbox
